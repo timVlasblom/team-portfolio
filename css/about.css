@@ -1,0 +1,35 @@
+.about{
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.about h2{
+  text-align: center;
+}
+
+.about-paragraphs{
+  width: 50%;
+  float: left
+}
+
+.about-paragraphs p{
+  font: roboto-light;
+}
+
+.about-paragraphs .socialmedia{
+  float: left;
+}
+
+.socialmedia{
+  margin-left: 2%;
+}
+
+.about-paragraphs .linkedin , .git{
+  width: 50px;
+  height: 45px;
+}
+
+.about-profile-img{
+  width: 50%;
+  float: left;
+}
