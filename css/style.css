@@ -1,12 +1,21 @@
+@import "main-nav.css";
+@import "banner.css";
+@import "about.css";
+@import "skills.css";
+@import "portfolio.css";
+@import "contact.css";
+@import "footer.css";
+
+
 body{
   background-color: #ffffff;
-  font-family: Roboto-Black;
+  font-family: "Roboto-Black";
 }
 
 h1, h2, h3 ,h4, h6{
   text-align: center;
   font-size: 30px;
-  color: #ffffff;
+  color: #808080;
   line-height: 39px;
 }
 
@@ -17,7 +26,7 @@ h1{
 }
 
 h2{
-  font: Roboto-Bold;
+  font: "Roboto-Bold";
 }
 
 h4{
@@ -26,7 +35,7 @@ h4{
 }
 
 h6{
-  font: Roboto-lightitalic;
+  font: "Roboto-lightitalic";
   font-size: 25px;
   line-height: 33px;
 }
@@ -38,13 +47,3 @@ p{
   color: #46464f;
   line-height: 33px;
 }
-
-
-
-@import "main-nav.css";
-@import "banner.css";
-@import "about.css";
-@import "skills.css";
-@import "portfolio.css";
-@import "contact.css";
-@import "footer.css";
