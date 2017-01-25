@@ -1,0 +1,25 @@
+.contact{
+    padding-bottom: 2%;
+}
+.contact-form .email,.name,.message,.send{
+    font-size:250%;
+    display:block;
+    width:50%;
+    margin:0% 0% 3% 25%;
+    padding-bottom: 2%;
+    background-color:#F0F0F0;
+}
+
+.message{
+    width:50%;
+    height:150px;
+}
+
+.send{
+    background-color:#83DA4C;
+    color:#FFFFFF;
+}
+
+.contact{
+    background-color:aquamarine;
+}
