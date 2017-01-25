@@ -8,7 +8,14 @@
     <title>Document</title>
   </head>
   <body>
-
-
+    <?php
+    include_once "templates\main-nav.php";
+    include_once "templates\banner.php";
+    include_once "templates\about.php";
+    include_once "templates\skills.php";
+    include_once "templates\portfolio.php";
+    include_once "templates\contact.php";
+    include_once "templates/footer.php";
+    ?>
   </body>
 </html>
