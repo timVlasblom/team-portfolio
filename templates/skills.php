@@ -1,7 +1,7 @@
 
     <section class="skills">
       <h3>Skills</h3>
-      <ul>
+      <ul class="skill-list">
         <li>photoshop</li>
         <li>Illustrator</li>
         <li>Sketch</li>
@@ -12,4 +12,6 @@
         <li>Gulp</li>
         <li>Git</li>
       </ul>
+      <div class="mini-footer">
+      </div>
     </section>
