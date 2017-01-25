@@ -1,8 +1,8 @@
 
     <section class="skills">
-      <h3>Skills</h3>
+      <h3>SKILLS</h3>
       <ul class="skill-list">
-        <li>photoshop</li>
+        <li>Photoshop</li>
         <li>Illustrator</li>
         <li>Sketch</li>
         <li>Html (5)</li>
