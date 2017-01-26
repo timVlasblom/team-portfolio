@@ -1,22 +1,26 @@
 .about{
   width: 100%;
   background-color: #ffffff;
+  float: left;
 }
 
 .about h2{
   text-align: center;
+  color: #000000
 }
 
 .about-paragraphs{
-  width: 50%;
-  float: left
+  width: 45%;
+  float: left;
+  margin: 5% 0% 0% 5%;
 }
 
 .about-paragraphs p{
-  font: roboto-light;
+  font-size: 20px;
 }
 
 .about-paragraphs .socialmedia{
+  margin-top: 10%;
   float: left;
 }
 
@@ -25,11 +29,22 @@
 }
 
 .about-paragraphs .linkedin , .git{
-  width: 50px;
-  height: 45px;
+  width: 100px;
+  height: 90px;
 }
 
 .about-profile-img{
-  width: 50%;
+  width: 30%;
+  margin-left: 10%;
   float: left;
+}
+
+@media only screen and (max-width: 414px) {
+    .about-paragraphs p {
+        font-size: 55%;
+    }
+    .about-paragraphs .linkedin , .git{
+        width: 50px;
+        height: 45px;
+    }
 }
