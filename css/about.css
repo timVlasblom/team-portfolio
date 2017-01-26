@@ -20,17 +20,17 @@
 }
 
 .about-paragraphs .socialmedia{
+  width:100%;
   margin-top: 10%;
   float: left;
-}
-
-.socialmedia{
-  margin-left: 2%;
 }
 
 .about-paragraphs .linkedin , .git{
   width: 100px;
   height: 90px;
+}
+.about-paragraphs .git{
+  margin-left: 7.5%;
 }
 
 .about-profile-img{
@@ -39,7 +39,7 @@
   float: left;
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 768px) {
     .about-paragraphs p {
         font-size: 55%;
     }
