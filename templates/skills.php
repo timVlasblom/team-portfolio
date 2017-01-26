@@ -11,8 +11,6 @@
         <li>Sketch</li>
         <li>Sass</li>
         <li>Git</li>
-        <hr></hr>
       </ul>
+      <div class="mini-footer">  </div>
     </section>
-    <div class="mini-footer">
-    </div>
