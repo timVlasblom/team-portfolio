@@ -1,0 +1,17 @@
+.skills{
+  background-color:#F2F2F2;
+  width: 100%;
+  float: left;
+  display: inline;
+}
+.skill-list li{
+  list-style-type: none;
+  width: 33%;
+  float: left;
+  background-color: #F2F2F2;
+  color: #83DA4C;
+  height: 60px;
+  text-align: center;
+  font-family: "Roboto-Bold";
+  font-size: 20px;
+}
