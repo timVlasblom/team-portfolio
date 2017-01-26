@@ -1,0 +1,33 @@
+.contact{
+    padding-bottom: 2%;
+    width:100%;
+    float:left;
+}
+
+.contact-form .email,.name,.message,.send{
+    display:block;
+    width:40%;
+    margin:0% 0% 3% 30%;
+    padding: 1%;
+    background-color:#F0F0F0;
+    border:1px solid #c3c1bc;
+    outline: none;
+    font-family:"Roboto-LightItalic";
+    font-size: 25px;
+    font-style: italic;
+
+}
+
+.message{
+    height:150px;
+    resize: none;
+}
+
+.send{
+    width:42.2%;
+    background-color:#83DA4C;
+    color:#FFFFFF;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-style: normal;
+}
