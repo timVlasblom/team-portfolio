@@ -26,7 +26,7 @@ h1{
 }
 
 h2{
-  font-family: 'Roboto-Black';
+  font: 30px arial, Roboto-black;
 }
 
 h4{
@@ -35,7 +35,7 @@ h4{
 }
 
 h6{
-  font: "Roboto-lightitalic";
+  font-family: "Roboto-lightitalic";
   font-size: 25px;
   line-height: 33px;
 }
