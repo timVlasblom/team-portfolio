@@ -3,21 +3,18 @@
   float: left;
 }
 
-.cat_with_a_hat{
+.portfolio-picture{
   padding: 0;
   float: left;
   width:100%;
   height: 250px;
 }
 
-.portfolio-paragraph{
+.portfolio-text{
   text-align: center;
-
 }
 
-
-
-ul.img-list {
+.portfolio-items {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -25,16 +22,14 @@ ul.img-list {
   width: 100%;
 }
 
-ul.img-list li {
+.portfolio-items li {
   width: 33.33%;
   display: inline;
   position: relative;
   float: left;
 }
 
-
-
-span.text-content {
+.text-content {
   margin-top: 30%;
   cursor: pointer;
   display: table;
@@ -46,7 +41,7 @@ span.text-content {
   opacity: 0;
 }
 
-span.text-content span {
+.text-content span {
   display: table-cell;
   text-align: center;
   vertical-align: middle;

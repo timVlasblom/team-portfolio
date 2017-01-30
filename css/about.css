@@ -9,41 +9,41 @@
   color: #000000
 }
 
-.about-paragraphs{
+.about-text{
   width: 45%;
   float: left;
   margin: 5% 0% 0% 5%;
 }
 
-.about-paragraphs p{
+.about-text p{
   font-size: 20px;
 }
 
-.about-paragraphs .socialmedia{
+.about-text .socialmedia{
   width:100%;
   margin-top: 10%;
   float: left;
 }
 
-.about-paragraphs .linkedin , .git{
+.about-text .linkedin , .git{
   width: 100px;
   height: 90px;
 }
-.about-paragraphs .git{
+.about-text .git{
   margin-left: 7.5%;
 }
 
-.about-profile-img{
+.profile-picture{
   width: 30%;
   margin-left: 10%;
   float: left;
 }
 
 @media only screen and (max-width: 768px) {
-    .about-paragraphs p {
+    .about-text p {
         font-size: 55%;
     }
-    .about-paragraphs .linkedin , .git{
+    .about-text .linkedin , .git{
         width: 50px;
         height: 45px;
     }

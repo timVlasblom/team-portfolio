@@ -3,7 +3,7 @@
     width: 100%;
 }
 
-.nav-links {
+.nav-bar {
     margin: 0 0 0 25%;
     padding: 0%;
     overflow: hidden;
@@ -12,13 +12,13 @@
     float: left;
 }
 
-.nav-text {
+.nav-link {
     float: left;
     width: 13%;
     list-style-type: none;
 }
 
-.nav-text a {
+.nav-link a {
     text-decoration: none;
     display: block;
     color: #46464F;
@@ -26,15 +26,15 @@
     padding: 14px 18px;
 }
 
-.nav-text a:hover {
+.nav-link a:hover {
     color: #83DA4C;
 }
 @media screen and (max-width: 700px) {
-    .nav-links {
+    .nav-bar {
         margin: 0%;
         width:100%;
     }
-    .nav-text {
+    .nav-link {
         margin-right: 6%;
     }
 

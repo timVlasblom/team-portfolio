@@ -41,15 +41,12 @@ h6{
 }
 
 /* exeptions */
-
 p{
   font-size: 25px;
   color: #46464f;
   line-height: 33px;
 }
 
-.mini-footer{
-  height: 7px;
-  width: 100%;
-  background-color: #83DA4C;
+.border {
+  border-bottom: solid 7px #83DA4C;
 }
