@@ -9,7 +9,6 @@
 
 body{
   background-color: #ffffff;
-  font-family: "Roboto-Black";
 }
 
 h1, h2, h3 ,h4, h6{
@@ -21,12 +20,16 @@ h1, h2, h3 ,h4, h6{
 
 /* exeptions */
 h1{
-  font-size: 60px;
+  font: 60px arial, Roboto-Black;
   line-height: 79px;
 }
 
 h2{
-  font: 30px arial, Roboto-black;
+  font: 20px arial, Roboto-black;
+  text-transform: uppercase;
+  font-weight: bold;
+  color:#111111;
+  margin:4% 0 4% 0;
 }
 
 h4{
@@ -35,16 +38,15 @@ h4{
 }
 
 h6{
-  font-family: "Roboto-lightitalic";
-  font-size: 25px;
+  font: 25px arial, Roboto-lightitalic;
   line-height: 33px;
 }
 
 /* exeptions */
 p{
-  font-size: 25px;
-  color: #46464f;
+  font: 25px arial, Roboto-Light;
   line-height: 33px;
+  color:#828282;
 }
 
 .border {

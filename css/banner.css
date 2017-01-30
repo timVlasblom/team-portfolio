@@ -14,7 +14,7 @@
 .banner img {
   width: 100%;
   float:left;
-  height:550px;
+  height:480px;
 }
 
 .banner .banner-content {
@@ -25,7 +25,7 @@
 }
 
 .banner h1 {
-  margin: 8% 0 2% 0;
+  margin: 2% 0 7% 0;
   display: block;
   text-transform: uppercase;
   font-weight: bold;
@@ -45,9 +45,9 @@
   margin: 30px auto;
 	width: 1px;
 	height: 1px;
-	border-left: 20px solid transparent;
-	border-right: 20px solid transparent;
-	border-top: 20px solid #ffffff;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	border-top: 8px solid #ffffff;
 }
 
 @media screen and (max-width: 768px) {
@@ -56,5 +56,8 @@
   }
   .head-title {
     font-size: 20px;
+  }
+  .button-shape{
+    margin:25px auto;
   }
 }

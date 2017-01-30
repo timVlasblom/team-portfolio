@@ -45,7 +45,7 @@
     <li>
       <a href="/index.php">
         <div class="image-overlay">
-          <img class="portfolio-picture" src="img/6">
+          <img class="portfolio-picture" src="img/6.jpg">
           <span class="text-content">Place Name</span>
         </div>
       </a>

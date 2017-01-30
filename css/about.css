@@ -12,16 +12,17 @@
 .about-text{
   width: 45%;
   float: left;
-  margin: 5% 0% 0% 5%;
+  margin: 10% 0% 0% 5%;
 }
 
 .about-text p{
   font-size: 20px;
+  line-height: 25px;
 }
 
 .about-text .socialmedia{
   width:100%;
-  margin-top: 10%;
+  margin: 10% 0 10% 0;
   float: left;
 }
 
@@ -35,16 +36,20 @@
 
 .profile-picture{
   width: 30%;
-  margin-left: 10%;
+  margin:5% 0 0 10%;
   float: left;
 }
 
 @media only screen and (max-width: 768px) {
     .about-text p {
-        font-size: 55%;
+        font-size: 75%;
+        line-height: 15px;
     }
     .about-text .linkedin , .git{
         width: 50px;
         height: 45px;
+    }
+    .profile-picture {
+
     }
 }

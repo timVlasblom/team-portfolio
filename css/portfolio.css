@@ -30,9 +30,7 @@
 }
 
 .text-content {
-  margin-top: 30%;
   cursor: pointer;
-  display: table;
   width:100%;
   left: 0;
   position: absolute;
@@ -49,9 +47,11 @@
 
 .image-overlay:hover {
   opacity: 0.5;
-  background-color: white;
 }
+
 .image-overlay:hover > .text-content{
-  color: black;
+  color:#ffffff;
   display: block;
+  background-color: #111111;
+  opacity: 0.6;
 }
