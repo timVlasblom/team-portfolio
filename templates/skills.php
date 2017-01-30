@@ -1,6 +1,6 @@
 
     <section class="skills">
-      <h3>SKILLS</h3>
+      <h2>SKILLS</h2>
       <ul class="skill-list">
         <li>Photoshop</li>
         <li>Html (5)</li>
