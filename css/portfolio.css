@@ -38,7 +38,7 @@
   position: absolute;
   top: 0;
   height:100%;
-  opacity: 0;
+  display: none;
 }
 
 .text-content span {
@@ -53,5 +53,5 @@
 }
 .image-overlay:hover > .text-content{
   color: black;
-opacity: 1;
+  display: block;
 }
