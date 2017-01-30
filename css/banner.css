@@ -34,10 +34,11 @@
 
 .banner-button {
   width: 10%;
-  padding: 1% 2%;
+  padding: 1% 4%;
   color: #ffffff;
   border: 2px solid #ffffff;
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 .button-shape{
