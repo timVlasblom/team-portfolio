@@ -47,19 +47,9 @@ p{
   color: #46464f;
   line-height: 33px;
 }
-<<<<<<< HEAD
 
 .mini-footer{
   height: 7px;
   width: 100%;
   background-color: #83DA4C;
 }
-=======
-.mini-footer{
-  width:100%;
-  height: 7px;
-  float:left;
-  background-color: #83DA4C;
-  margin-top:0%;
-}
->>>>>>> b1e7a2f481f58458ad02ba0e3e90fc81ee0598c6
