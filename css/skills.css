@@ -2,16 +2,21 @@
   background-color:#F2F2F2;
   width: 100%;
   float: left;
-  display: inline;
 }
+
+.skills h2{
+    text-transform: uppercase;
+}
+
 .skill-list li{
   list-style-type: none;
-  width: 33%;
+  width: 32%;
   float: left;
   background-color: #F2F2F2;
   color: #83DA4C;
   height: 60px;
   text-align: center;
-  font-family: "Roboto-Bold";
+  font-style: bold;
   font-size: 20px;
 }
+
