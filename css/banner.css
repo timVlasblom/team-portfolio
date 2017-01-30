@@ -25,7 +25,7 @@
 }
 
 .banner h1 {
-  margin: 8% 0 0 0;
+  margin: 8% 0 2% 0;
   display: block;
   text-transform: uppercase;
   font-weight: bold;
@@ -33,7 +33,6 @@
 }
 
 .banner-button {
-  margin: 35px auto;
   width: 10%;
   padding: 1% 2%;
   color: #ffffff;
@@ -43,15 +42,19 @@
 
 .button-shape{
   display: block;
-  margin: 45px auto;
+  margin: 30px auto;
 	width: 1px;
 	height: 1px;
 	border-left: 20px solid transparent;
 	border-right: 20px solid transparent;
 	border-top: 20px solid #ffffff;
 }
-@media screen and (max-width: 700px) {
+
+@media screen and (max-width: 768px) {
   .banner img {
-    height:320px;
+    height:340px;
+  }
+  .head-title {
+    font-size: 20px;
   }
 }
