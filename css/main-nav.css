@@ -1,12 +1,11 @@
 .navigation {
   width: 100%;
   text-transform: uppercase;
-  padding: 10px 0;
+  padding: 15px 0;
 }
 
 .nav-bar {
-  margin: 0 0 0 25%;
-  padding: 0%;
+  padding: 0;
   overflow: hidden;
   background-color: #ffffff;
   width: 75%;
@@ -25,6 +24,7 @@
   color: #46464F;
   text-align: center;
   padding: 14px 18px;
+
 }
 
 .nav-link a:hover {
@@ -33,7 +33,7 @@
 
 @media screen and (max-width: 768px) {
   .nav-bar {
-      margin: 0%;
+      margin: 0;
       width:100%;
   }
 }
