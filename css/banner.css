@@ -18,24 +18,16 @@
   text-align: center;
 }
 
-.banner h1 {
-  margin: 2% 0 7% 0;
-  display: block;
-  text-transform: uppercase;
-  font-weight: bold;
-  color: #ffffff;
-}
-
 .banner-button {
   width: 10%;
-  padding: 1% 4%;
+  padding: 1% 2%;
   color: #ffffff;
   border: 2px solid #ffffff;
   text-decoration: none;
   text-transform: uppercase;
 }
 
-.button-shape{
+.banner-shape {
   display: block;
   margin: 30px auto;
 	width: 1px;
@@ -46,13 +38,13 @@
 }
 
 @media screen and (max-width: 768px) {
-  .banner img {
+  .banner {
     height:340px;
   }
   .head-title {
     font-size: 20px;
   }
-  .button-shape{
+  .button-shape {
     margin:25px auto;
   }
 }

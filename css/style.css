@@ -19,9 +19,13 @@ h1, h2, h3 ,h4, h6{
 }
 
 /* exeptions */
-h1{
+h1 {
   font: 60px arial, Roboto-Black;
-  line-height: 79px;
+  margin: 9% 0 7% 0;
+  display: block;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #ffffff;
 }
 
 h2{
@@ -30,6 +34,11 @@ h2{
   font-weight: bold;
   color:#111111;
   margin:4% 0 4% 0;
+}
+
+h3 {
+  color: #ffffff;
+  margin-top: 15%;
 }
 
 h4{

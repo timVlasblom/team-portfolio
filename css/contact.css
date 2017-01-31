@@ -4,7 +4,7 @@
     float:left;
 }
 
-.contact-form .email,.name,.message,.send{
+.input, .send {
     display:block;
     width:40%;
     margin:0% 0% 3% 30%;
@@ -17,7 +17,7 @@
     font-style: italic;
 }
 
-.message{
+textarea{
     height:150px;
     resize: none;
 }
