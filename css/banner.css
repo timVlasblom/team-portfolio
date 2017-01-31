@@ -1,20 +1,13 @@
 .banner {
-  float: left;
+  display: block;
   width: 100%;
-  position: relative;
-  color: #ffffff;
-  text-align: right;
+  height: 530px;
+  background: url("../img/background.png") center center no-repeat;
 }
 
 .head-title {
   display: block;
   font-size: 28px;
-}
-
-.banner img {
-  width: 100%;
-  float:left;
-  height:480px;
 }
 
 .banner .banner-content {
@@ -62,3 +55,4 @@
     margin:25px auto;
   }
 }
+
