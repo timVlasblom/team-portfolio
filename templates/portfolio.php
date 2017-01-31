@@ -4,51 +4,40 @@
   <ul class="portfolio-items">
     <li>
       <a href="/index.php">
-        <div class="image-overlay">
           <img class="portfolio-picture" src="img/1.jpg">
-          <span class="text-content">Place Name</span>
-      	</div>
+        <span class="text-content">Place Name</span>
       </a>
     </li>
     <li>
       <a href="/index.php">
-        <div class="image-overlay">
           <img class="portfolio-picture" src="img/2.jpg">
-          <span class="text-content">Place Name</span>
-        </div>
+        <span class="text-content">Place Name</span>
       </a>
     </li>
     <li>
       <a href="/index.php">
-        <div class="image-overlay">
           <img class="portfolio-picture" src="img/3.jpg">
           <span class="text-content">Place Name</span>
-        </div>
       </a>
     </li>
     <li>
       <a href="/index.php">
-        <div class="image-overlay">
           <img class="portfolio-picture" src="img/4.png">
           <span class="text-content">Place Name</span>
-        </div>
       </a>
     </li>
     <li>
       <a href="/index.php">
-        <div class="image-overlay">
           <img class="portfolio-picture" src="img/5.jpg">
           <span class="text-content">Place Name</span>
-        </div>
       </a>
     </li>
     <li>
       <a href="/index.php">
-        <div class="image-overlay">
           <img class="portfolio-picture" src="img/6.jpg">
           <span class="text-content">Place Name</span>
-        </div>
       </a>
     </li>
   </ul>
 </section>
+
