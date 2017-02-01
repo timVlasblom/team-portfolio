@@ -29,14 +29,24 @@
   float: left;
 }
 
-.text-content {
+.text-hover {
   width:100%;
   height: 100%;
   position: absolute;
   display: none;
+  margin: 0%;
+  font: 20px arial,Roboto-black;
 }
 
-.portfolio-item :hover > .text-content{
+.text-hover span {
+  text-transform: uppercase;
+  display: block;
+  margin: 6% 0 8% 0;
+  font: 30px arial,Roboto-black;
+  font-weight: bold;
+}
+
+.portfolio-item :hover > .text-hover{
   color:#ffffff;
   display: block;
   background-color: #111111;
