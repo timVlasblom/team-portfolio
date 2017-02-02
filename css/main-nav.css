@@ -1,0 +1,39 @@
+.navigation {
+  width: 100%;
+  text-transform: uppercase;
+  padding: 15px 0;
+}
+
+.nav-bar {
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  width: 75%;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+.nav-link {
+  display: inline;
+  list-style-type: none;
+}
+
+.nav-link a {
+  text-decoration: none;
+  color: #46464F;
+  text-align: center;
+  padding: 14px 18px;
+
+}
+
+.nav-link a:hover {
+  color: #83DA4C;
+}
+
+@media screen and (max-width: 768px) {
+  .nav-bar {
+      margin: 0;
+      width:100%;
+  }
+}

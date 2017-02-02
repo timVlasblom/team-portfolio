@@ -1,0 +1,55 @@
+.about{
+  width: 100%;
+  background-color: #ffffff;
+  float: left;
+}
+
+.about h2{
+  text-align: center;
+  color: #000000
+}
+
+.about-text{
+  width: 45%;
+  float: left;
+  margin: 10% 0% 0% 5%;
+}
+
+.about-text p{
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.about-text .socialmedia{
+  width:100%;
+  margin: 10% 0 10% 0;
+  float: left;
+}
+
+.about-text .linkedin , .git{
+  width: 100px;
+  height: 90px;
+}
+.about-text .git{
+  margin-left: 7.5%;
+}
+
+.profile-picture{
+  width: 30%;
+  margin:5% 0 0 10%;
+  float: left;
+}
+
+@media only screen and (max-width: 768px) {
+    .about-text p {
+        font-size: 75%;
+        line-height: 15px;
+    }
+    .about-text .linkedin , .git{
+        width: 50px;
+        height: 45px;
+    }
+    .profile-picture {
+
+    }
+}

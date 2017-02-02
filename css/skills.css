@@ -1,0 +1,22 @@
+.skills{
+  background-color:#F2F2F2;
+  width: 100%;
+  float: left;
+}
+
+.skills h2{
+    text-transform: uppercase;
+}
+
+.skill-list li{
+  list-style-type: none;
+  width: 32%;
+  float: left;
+  background-color: #F2F2F2;
+  color: #83DA4C;
+  height: 60px;
+  text-align: center;
+  font-style: bold;
+  font-size: 20px;
+}
+
